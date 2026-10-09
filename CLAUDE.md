@@ -31,4 +31,4 @@ Learning repo for Git, GitHub, and CI/CD workflow. Node.js, no dependencies.
 
 ## Working with me
 - I'm learning. When you run git/gh commands, briefly say what each one does.
-- Ask before merging, promoting, or doing anything to `prod`.
+- Ask before merging, promoting, or doing anything to `prod` .
